@@ -1,0 +1,5 @@
+/target/
+/target-output/
+*.classpath
+*.prefs
+*.settings
